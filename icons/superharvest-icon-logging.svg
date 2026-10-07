@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="48" fill="#243528"/>
+  <!-- tree trunk -->
+  <rect x="118" y="100" width="28" height="110" rx="6" fill="#8B5A2B"/>
+  <!-- canopy blocks (chain) -->
+  <rect x="70" y="60" width="44" height="44" rx="8" fill="#3D8B4F"/>
+  <rect x="118" y="48" width="48" height="48" rx="8" fill="#2F7A3F"/>
+  <rect x="166" y="64" width="44" height="44" rx="8" fill="#3D8B4F"/>
+  <!-- axe -->
+  <rect x="52" y="120" width="14" height="80" rx="5" fill="#C4A574" transform="rotate(25 60 160)"/>
+  <path d="M88 96 L130 78 L142 110 L100 128 Z" fill="#FFB347"/>
+  <path d="M88 96 L72 112 L84 124 L100 128 Z" fill="#E89830"/>
+  <!-- chop lines -->
+  <rect x="176" y="160" width="36" height="7" rx="3" fill="#7EC8FF" opacity="0.85"/>
+  <rect x="176" y="174" width="28" height="7" rx="3" fill="#7EC8FF" opacity="0.6"/>
+  <rect x="176" y="188" width="20" height="7" rx="3" fill="#7EC8FF" opacity="0.4"/>
+</svg>

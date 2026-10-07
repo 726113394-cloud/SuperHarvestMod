@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="48" fill="#3A2F1F"/>
+  <!-- soil -->
+  <rect x="36" y="168" width="184" height="36" rx="10" fill="#6B4423"/>
+  <!-- three wheat/crop blocks -->
+  <rect x="48" y="120" width="40" height="48" rx="6" fill="#E8C547"/>
+  <rect x="108" y="120" width="40" height="48" rx="6" fill="#F0D060"/>
+  <rect x="168" y="120" width="40" height="48" rx="6" fill="#E8C547"/>
+  <rect x="62" y="128" width="8" height="32" fill="#C4A020"/>
+  <rect x="72" y="132" width="8" height="28" fill="#C4A020"/>
+  <rect x="122" y="128" width="8" height="32" fill="#C4A020"/>
+  <rect x="132" y="132" width="8" height="28" fill="#C4A020"/>
+  <rect x="182" y="128" width="8" height="32" fill="#C4A020"/>
+  <rect x="192" y="132" width="8" height="28" fill="#C4A020"/>
+  <!-- hoe -->
+  <rect x="120" y="36" width="14" height="70" rx="5" fill="#C4A574" transform="rotate(-20 128 70)"/>
+  <path d="M96 42 H160 L152 62 H104 Z" fill="#8AB4F8"/>
+  <!-- harvest spark -->
+  <circle cx="210" cy="80" r="10" fill="#FFE08A"/>
+  <rect x="206" y="52" width="8" height="18" rx="3" fill="#FFE08A"/>
+  <rect x="186" y="72" width="18" height="8" rx="3" fill="#FFE08A"/>
+  <rect x="216" y="72" width="18" height="8" rx="3" fill="#FFE08A"/>
+</svg>
