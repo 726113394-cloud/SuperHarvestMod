@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: superharvest
+Specification-Vendor: éã¨åæ¾¶îâé¨å«ç
+ ¬æ¾¶ç£å³
+Specification-Version: 1
+Implementation-Title: superharvest-forge
+Implementation-Version: 1.0.0
+Implementation-Vendor: éã¨åæ¾¶îâé¨å«�
+ �¬æ¾¶ç£å³
+

@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="superharvest"
+version="1.0.0"
+displayName="SuperHarvest"
+authors="éã¨åæ¾¶îâé¨å«ç¬æ¾¶ç£å³"
+description='''Chain harvest for crops, ores and trees. Unofficial Forge mod inspired by the SuperHarvest plugin (original plugin author: Dru_TNT). Contact: lztkdxtn@qq.com
+
+本模组由「来自太空的小头脑」开发（邮箱：lztkdxtn@qq.com）。
+功能玩法仿照 Bukkit 插件 SuperHarvest（插件作者：Dru_TNT），并非官方移植，仅作单机/Forge 端连锁采集实现。'''
+
+[[dependencies.superharvest]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.superharvest]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
